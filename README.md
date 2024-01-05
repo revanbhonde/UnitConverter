@@ -1,5 +1,4 @@
-# ChatGPT
-Kotlin Unit Converter
+# Kotlin Unit Converter
 
 Kotlin Unit Converter is a simple and efficient Android app developed in Kotlin to facilitate easy and quick unit conversions. Whether you're a student, professional, or just someone who needs to convert units on the go, this app provides a user-friendly interface and real-time conversion results.
 
